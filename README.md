@@ -17,8 +17,8 @@ Additionally, I:
 <details>
   <summary>🛠️ strive to contribute to FOSS communities</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rubenhalman&show_icons=true&theme=bear" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rubenhalman&theme=dark&hide_border=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=rubenhalman&include_orgs=true&show_icons=true&theme=bear" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rubenhalman&include_orgs=true&theme=dark&hide_border=true" width="400">
 </details>
 
 <br>
