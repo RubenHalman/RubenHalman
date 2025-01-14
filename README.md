@@ -1,6 +1,6 @@
 ### Hello, I am Ruben 👋
 
-#### A Technology Consultant by day ☼, an OSS Contributor by night ☾, and occasionally a human engine for Bonnie's transportation needs 🚴‍♂️
+#### A Technology Consultantand a human engine for Bonnie's transportation needs 🚴‍♂️
 
 In my daily work, I:
 - 💬 Engage in conversations about **technology**, **software** and **security**
@@ -9,13 +9,13 @@ In my daily work, I:
 Additionally, I:
 
 <details>
-  <summary>❤️ love dogs and participate in dogsports!</summary>
+  <summary>❤️ participate in dogsports!</summary>
 
 ![gif](./media/bonnieandruben.gif)
 </details>
 
 <details>
-  <summary>🛠️ strive to contribute to FOSS communities</summary>
+  <summary>🛠️ strive to contribute to OSS communities</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rubenhalman&include_orgs=true&show_icons=true&theme=bear" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rubenhalman&include_orgs=true&theme=dark&hide_border=true" width="400">
