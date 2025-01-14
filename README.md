@@ -1,6 +1,6 @@
 ### Hello, I am Ruben 👋
 
-#### A Technology Consultantand a human engine for Bonnie's transportation needs 🚴‍♂️
+#### A consultant and a human engine for Bonnie's transportation needs 🚴‍♂️
 
 In my daily work, I:
 - 💬 Engage in conversations about **technology**, **software** and **security**
