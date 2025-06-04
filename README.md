@@ -1,6 +1,6 @@
 ### Hello, I am Ruben 👋
 
-#### A consultant, developer and occasionally a human engine for Bonnie's(🐶) transportation needs 🚴‍♂️
+#### Passionate about open source and always happy to give Bonnie 🐶 a lift
 
 In my daily work, I:
 - 💬 Engage in conversations about **technology**, **software** and **security**
