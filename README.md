@@ -1,6 +1,6 @@
 ### Hello, I am Ruben 👋
 
-- 🔨 While I haven’t maintained any open-source contributions since June 2024, I'm a co-creator of [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner). 
+- 🔨 While I haven’t maintained any contributions since June 2024, I'm a co-creator of [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner). 
 - 💬 I like enganging in conversations about **technology**, **software** and **security**
 - ⚙️ Am comfortable developing with `.ts`/`.js`, `.apex`, `.flow`, `.html` and `.css`
 
