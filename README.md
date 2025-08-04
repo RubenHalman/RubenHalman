@@ -1,6 +1,6 @@
 ### Hello, I am Ruben 👋
 
-- 🔨 I haven’t maintained since June 2024, but am a co-creator of (Salesforce) [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner). 
+- 🔨 I haven’t maintained since June 2024, but am a co-creator of [Lightning Flow Scanner](https://github.com/Lightning-Flow-Scanner). 
 - 💬 I like engaging in conversations about **technology** and **innovation**:
   - [Powered by Community, not Competition](https://www.linkedin.com/posts/ruben-halman_powered-by-community-not-competition-the-activity-7356953670095126530-4P2O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFbatsBW3pThTADHu6lmm-VYOgjLg4efDY)
   - [Still Achieving — But Where Is the Advocacy?](https://www.linkedin.com/feed/update/urn:li:ugcPost:7353960376402681856/)
