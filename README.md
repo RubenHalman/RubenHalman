@@ -6,7 +6,7 @@
   - [Still Achieving — But Where Is the Advocacy?](https://www.linkedin.com/feed/update/urn:li:ugcPost:7353960376402681856/)
   - [Salesforce, PMD and the Gatekeeping of Innovation](https://www.linkedin.com/feed/update/urn:li:activity:7336213770270089216/)
 <details>
-  <summary>- 🐶 But really, I prefer to spend most of my time training my dog </summary>
+  <summary>- 🐶 Above all, I cherish spending time training my dog.</summary>
 
   [![Bonnie and Ruben GIF](./media/bonnieandruben.gif)](https://www.youtube.com/@bonnieandruben)
 </details>
